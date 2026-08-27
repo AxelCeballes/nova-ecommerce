@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 
-- Integrante 1 — Reemplazar por nombre
+- Integrante 1 — Axel Ceballes
 - Integrante 2 — Reemplazar por nombre
 - Integrante 3 — Reemplazar por nombre
 - Integrante 4 — Reemplazar por nombre
@@ -10,7 +10,7 @@
 
 ## 📌 Descripción
 
-NOVA es un e-commerce frontend desarrollado para el Sprint 2. El proyecto simula una tienda online utilizando exclusivamente tecnologías del lado del cliente: HTML5, CSS3 y JavaScript.
+NOVA es un e-commerce frontend 
 
 ## 🚀 Funcionalidades
 
@@ -41,7 +41,6 @@ NOVA es un e-commerce frontend desarrollado para el Sprint 2. El proyecto simula
 ## 📁 Estructura
 
 ```text
-ecommerce_sprint2/
 ├── index.html
 ├── productos.html
 ├── producto.html
@@ -54,18 +53,3 @@ ecommerce_sprint2/
     └── app.js
 ```
 
-## 🌐 Deploy
-
-El sitio puede desplegarse gratuitamente con GitHub Pages.
-
-## 📚 Requisitos cubiertos
-
-- HTML semántico y código indentado.
-- CSS externo.
-- Mobile First y responsive.
-- Flexbox.
-- Array de objetos en JavaScript.
-- Renderizado dinámico vía DOM.
-- Carga asíncrona.
-- addEventListener para interacciones.
-- Git/GitHub.
