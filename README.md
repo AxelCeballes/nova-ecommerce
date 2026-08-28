@@ -1,12 +1,9 @@
-# NOVA — E-commerce Sprint 2
+https://axelceballes.github.io/nova-ecommerce/
 
 ## 👥 Integrantes
 
 - Integrante 1 — Axel Ceballes
-- Integrante 2 — Reemplazar por nombre
-- Integrante 3 — Reemplazar por nombre
-- Integrante 4 — Reemplazar por nombre
-- Integrante 5 — Reemplazar por nombre
+
 
 ## 📌 Descripción
 
